@@ -1,0 +1,9 @@
+{
+    "presets": [
+      "@babel/preset-typescript",
+      "babel-preset-solid"
+    ],
+    "plugins": [
+      "@babel/plugin-syntax-jsx"
+    ]
+  }
